@@ -2,11 +2,13 @@ package hello;
 
 import java.util.Scanner;
 
-public class 比较 {
+public class 卤脠陆脧 {
 
 	
 //123
 	//234
+	//567
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -54,7 +56,7 @@ public class 比较 {
 				System.out.print(s);
 			}
 			}else {
-				System.out.println("输入错误");
+				System.out.println("脢盲脠毛麓铆脦贸");
 			}
 		}
 		
